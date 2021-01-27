@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Service and Products
+
+Input:
+Take cursor on Service &amp; Products
+Output:
+Two Following components pops on right from Menubar:-
+-Birth Control Products
+-Everyday health Products</description>
+   <name>Service and Products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4c8c429-ae6c-4a28-9b20-9e86f46158e8</testCaseGuid>
+</TestCaseEntity>

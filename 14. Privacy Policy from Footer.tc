@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>14. Privacy Policy from Footer
+
+Input:
+User clicks on Privacy Policy From Footer
+Output:
+It Opens the Privacy poicy page</description>
+   <name>14. Privacy Policy from Footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>f27e5a2a-cc19-4f49-bdc2-b187ef091381</testCaseGuid>
+</TestCaseEntity>

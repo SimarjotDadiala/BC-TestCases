@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FAQs from footer
+
+Input:
+User clicks on FAQs from Footer
+
+Output:
+It opens the FAQs page</description>
+   <name>11. FAQs from footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b603272b-379b-412c-aa40-4823a5454cc7</testCaseGuid>
+</TestCaseEntity>

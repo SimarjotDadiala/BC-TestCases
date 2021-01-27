@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Contact Us
+
+Input:
+	
+Click on Contact Us on Menu bar
+
+OutPut:
+Contact us product
+</description>
+   <name>Contact Us</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d04d036e-e0bd-41f4-baff-9672a69ef5d2</testCaseGuid>
+</TestCaseEntity>

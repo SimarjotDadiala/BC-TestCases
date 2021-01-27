@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Birth Control choices - Related Products
+
+Input:
+User adds the product from Related Products on BirthControl Choices 
+
+Output:
+It succesfully adds the product</description>
+   <name>Birth Control choices - Related Products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23039bb2-a70b-40a3-83ce-ae62889aa621</testCaseGuid>
+</TestCaseEntity>

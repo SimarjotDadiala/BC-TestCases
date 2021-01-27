@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Birth Control products -Start Consultation
+
+Input:
+User lands on birth Control products page and clicks on Start a consultation button
+Output:
+It adds the service into Cart</description>
+   <name>Birth Control products -Start Consultation</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>317dc945-3084-4bb6-8f6e-318d01a91a99</testCaseGuid>
+</TestCaseEntity>

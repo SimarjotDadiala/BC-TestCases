@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Careers Page
+
+Input:
+User Hover on About Us and Click on Careers
+
+Output:
+It Succesfully opens the Careers page</description>
+   <name>9.Careers Page</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>4035839d-19ef-42a3-be7f-a6ad6c0cc489</testCaseGuid>
+</TestCaseEntity>

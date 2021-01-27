@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Emergency Contraception
+
+Input:
+User scrolls to the Footer and Clicks on Emergency Contraception link	
+
+Output:
+It Sucessfully opens the Emergency Contraception Page</description>
+   <name>3. Emergency Contraception</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>b4e43bf8-9a1a-4283-86f0-8b4134e36ac5</testCaseGuid>
+</TestCaseEntity>

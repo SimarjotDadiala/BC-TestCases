@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Contact Us from footer
+
+Input:
+User scrolls to the Footer and clicks on Contact Us
+Output;
+It succesfully opens the Contact Us page</description>
+   <name>17. Contact Us from footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>3d2fef08-ac35-4293-8130-08350c21f18b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Blog
+
+Input:
+Click on Blog
+
+Output:
+It opens the Blog page</description>
+   <name>Learn More</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>e6afe37e-268b-4983-99c1-823484f9dd50</testCaseGuid>
+</TestCaseEntity>

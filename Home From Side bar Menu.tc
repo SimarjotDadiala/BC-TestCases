@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Home From Side bar Menu
+input:
+Click on Home button
+Output:
+Website lands on home Page</description>
+   <name>Home From Side bar Menu</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>09013777-5f6a-491e-ad68-66d4e3638489</testCaseGuid>
+</TestCaseEntity>

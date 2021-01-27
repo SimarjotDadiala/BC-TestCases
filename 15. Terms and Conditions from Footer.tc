@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Terms and Conditions from Footer
+input:
+USer clicks on Terms and Conditions from Footer
+Output:
+It opens the Tersm and Conditions page</description>
+   <name>15. Terms and Conditions from Footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>dba0b495-db62-4429-bd4b-e2b0407c0df8</testCaseGuid>
+</TestCaseEntity>

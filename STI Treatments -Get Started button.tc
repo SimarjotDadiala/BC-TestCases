@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>STI Treatments -Get Started button
+Input:
+User Lands on STI treatments page and clicks on Get started button
+Output:
+It successfully opens the Sign up page</description>
+   <name>STI Treatments -Get Started button</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>473ba3c6-53ee-4137-8252-0525ce80a6b1</testCaseGuid>
+</TestCaseEntity>

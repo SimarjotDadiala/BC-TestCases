@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sign in from Footer
+
+Input:
+User scrolls to Footer and clicks on sign in
+Output:
+It succesfullty opens the Sign in Page</description>
+   <name>18. Sign in from Footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d219a625-1b40-4698-b433-90ad82056629</testCaseGuid>
+</TestCaseEntity>

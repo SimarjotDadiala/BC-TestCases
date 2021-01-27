@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Telehealth Informed Consent
+
+Input:
+User navigates to footer and clicks on Telehealth Informed consent
+Output:
+It opens the Telehealth informed Consent Page</description>
+   <name>16.Telehealth Informed Consent</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>d8f67e04-6951-4c38-8ad8-996f3e8d89ea</testCaseGuid>
+</TestCaseEntity>

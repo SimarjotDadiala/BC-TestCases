@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>STI Treatments from Footer
+
+Input:
+User Clicks on STI treatments from Footer
+
+Output
+It Successfully opens the STI treatments Page</description>
+   <name>2. STI Treatments from Footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>a29c2656-de02-4f71-a047-1e15db067571</testCaseGuid>
+</TestCaseEntity>

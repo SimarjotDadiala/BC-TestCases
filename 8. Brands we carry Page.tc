@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Brands we carry Page
+Input:
+User Hover on About Us and click on Brands we carry page
+Output:
+It Successfully opens the Brands we Carry page</description>
+   <name>8. Brands we carry Page</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>bd5bbb79-64f4-4cc8-a91c-576eb887f237</testCaseGuid>
+</TestCaseEntity>

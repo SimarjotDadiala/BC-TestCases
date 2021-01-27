@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>10. Help from Footer
+
+Input:
+User clicks on Help from Footer 
+Output:
+It opens the Help page</description>
+   <name>10.Help from Footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>149ef44e-65e2-41b6-8720-18ce0cb4c75c</testCaseGuid>
+</TestCaseEntity>

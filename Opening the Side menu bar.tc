@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Opening the Side menu bar
+Input:
+Click on Home button
+
+Output:
+Sidebar slides in from left to right and it includes following compoents:-
+-Home
+-Service &amp; Products
+-About Us
+-Learn More
+-Contact Us</description>
+   <name>Opening the Side menu bar</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1fb21d72-7980-475e-a850-1172e7fb4385</testCaseGuid>
+</TestCaseEntity>

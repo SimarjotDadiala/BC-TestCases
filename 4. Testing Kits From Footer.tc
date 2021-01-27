@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing Kits From Footer
+
+Input:
+User Scrolls to Footer and Clicks on Testing Kits
+
+Output:
+User Successfully opens the Testing kits Page</description>
+   <name>4. Testing Kits From Footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>9c5cb59d-70e7-4c3c-9ec7-ea7e99d37295</testCaseGuid>
+</TestCaseEntity>

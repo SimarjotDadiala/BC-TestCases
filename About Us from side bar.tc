@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>About Us
+Input:
+Take cursor on About Us
+Output:
+	
+Three Following components pops on right from Menubar:-
+-Who we are
+-Our Reviews
+-Careers</description>
+   <name>About Us from side bar</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>0401f3ed-baf4-4bf6-bac9-9a0c7644b448</testCaseGuid>
+</TestCaseEntity>

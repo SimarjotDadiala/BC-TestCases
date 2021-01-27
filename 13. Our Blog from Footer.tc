@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Our Blog from Footer
+Input:
+User clicks on Our Blog from Footer
+
+Output:
+It Opens the Blog page</description>
+   <name>13. Our Blog from Footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>c0f75252-654b-4bcf-93ea-3fe94067738b</testCaseGuid>
+</TestCaseEntity>

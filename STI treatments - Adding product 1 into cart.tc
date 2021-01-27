@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>STI treatments - Adding product 1 into cart
+Input:
+User lands on STI treatment page and clicks on try now on Product cards
+Output:
+It succesfully adds the product into the cart</description>
+   <name>STI treatments - Adding product 1 into cart</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>cd69f5dc-3fb5-4cd0-8155-273d0d75ab39</testCaseGuid>
+</TestCaseEntity>

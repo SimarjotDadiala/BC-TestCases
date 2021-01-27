@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Birth Control Products- View All reviews 
+
+Input:
+User Scrolls to the Review container and clicks on View all reviews buttons
+
+Output:
+It succesfully opens the reviews page</description>
+   <name>Birth Control Products- View All reviews</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>2208e267-2d9e-4cfc-b589-c2da863d45af</testCaseGuid>
+</TestCaseEntity>

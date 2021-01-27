@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Our Reviews Page
+
+Input:
+User hover on About us and click on Our Reviews
+
+OutPut:
+It succesfully opens the Our Reviews page</description>
+   <name>7. Our Reviews Page</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>01f506db-b484-49b6-b535-3179289efa3b</testCaseGuid>
+</TestCaseEntity>

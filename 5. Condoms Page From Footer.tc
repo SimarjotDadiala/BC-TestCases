@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Condoms Page From Footer
+
+Input:
+User Scrolls to Footer and Click on Condoms link
+
+Output:
+It Succesfuuly opens the Condoms page</description>
+   <name>5. Condoms Page From Footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>ec9a3c9b-9841-4e55-8456-c064722102d5</testCaseGuid>
+</TestCaseEntity>

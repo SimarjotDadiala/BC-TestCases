@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Who we are
+
+Input:
+User Hover on About Us and then Click on Who we are
+
+Output:
+It Successfully opens the Who we are page</description>
+   <name>6. Who we are</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>5b5fb9a7-fb9f-4d9e-af3e-0e5bd4fe8af7</testCaseGuid>
+</TestCaseEntity>

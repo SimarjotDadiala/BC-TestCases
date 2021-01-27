@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Launching Website:
+Input:
+https://bc-client-nine.vercel.app/
+Output: 
+App launches Successfully</description>
+   <name>Launching website</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>8262374f-c432-402d-b70c-04194593e6a2</testCaseGuid>
+</TestCaseEntity>

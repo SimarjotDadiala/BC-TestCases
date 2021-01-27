@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Birth Control Products
+
+Input:
+Click on Birth Control products from
+Service &amp; Products
+
+Output:
+It succesfully opens the Birthcontrol product page</description>
+   <name>1.Birth Control Products</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>1cc3fb98-4bed-492f-bee4-309d94f2632d</testCaseGuid>
+</TestCaseEntity>

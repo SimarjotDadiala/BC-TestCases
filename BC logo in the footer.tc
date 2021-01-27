@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>BC logo in the footer
+
+Input:
+when user clicks on BC logo
+
+Output:
+it takes to the Home page</description>
+   <name>BC logo in the footer</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>957e9072-1181-4970-b62c-825c1df6c570</testCaseGuid>
+</TestCaseEntity>
